@@ -1,2 +1,2 @@
 # Estructura_De_Datos
-Algoritmos de ordenamiento para el curso de estructura de datos, en el lenguaje GO
+Aqui dejo algunos algoritmos que hice para estructura de datos, tiene suma polaca y algunos metodos de ordenamiento. Todos implementados en lenguaje GO
